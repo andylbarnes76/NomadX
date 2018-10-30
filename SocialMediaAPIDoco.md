@@ -1,0 +1,15 @@
+# Instagram
+[Instagram Documentation](https://www.instagram.com/developer/)
+## Relevant Functions
+### Data Analytics
+#### Search Tags
+#### Geolocate Photos
+#### Identify Popular and Trending Photos
+### Operations
+#### Automate Publishing
+
+# Twitter
+[Twitter Documentation](https://developer.twitter.com/en/docs.html)
+## Relevant Functions
+# Facebook
+[Facebook Documentation](https://developers.facebook.com/docs/)
